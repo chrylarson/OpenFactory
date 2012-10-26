@@ -5,7 +5,7 @@ Open Source Factory Production Monitoring
 
 This is a collection of open source software and hardware that together creates a factory production monitoring system. The design is based on Arduino, Drupal, node.js, and Ubuntu. 
 
-	Arduino - This is the hardware that collections the data directly from the production machine.
+	Arduino - This is the hardware that collects the data directly from the production machine.
 	http://arduino.cc/
 
 	Drupal - This is the CMS that distributes and displays the production data.
