@@ -40,10 +40,14 @@ To Do:
 		Write a program to auto-connect to the internet
 		Write a program to collect data from the local IO pins
 		Write a program to send the data to a node.js server
+		Write a program to sync the arduino time with the server time
+		Write a program to store data on the local flash card
+		Write a program to send data on the local flash card upon re-connecting to the node.js server
 		
 	node.js
 		Write a program to listen for Arduino connections
-		Write a program to store the received Arduino messages in a database
+		Write a program to store the received Arduino messages to a database
+		Write a program that respoinsed with server time to the Arduino
 		
 	Ubuntu
 		Create a distribution with all the pieces installed and set to working default values
