@@ -43,6 +43,8 @@ To Do:
 		Write a program to sync the arduino time with the server time
 		Write a program to store data on the local flash card
 		Write a program to send data on the local flash card upon re-connecting to the node.js server
+		Locate a shield with 24VDC digital inputs and 24VDC converter to power the UNO board
+		Locate a shield with industrial analog inputs, 4-20mA, 0-20mA, 0-10VDC
 		
 	node.js
 		Write a program to listen for Arduino connections
